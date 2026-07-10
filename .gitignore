@@ -14,11 +14,8 @@ dist-ssr
 out
 tsconfig.tsbuildinfo
 *.local
-.env
-.env.*
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
@@ -27,3 +24,4 @@ tsconfig.tsbuildinfo
 *.njsproj
 *.sln
 *.sw?
+config.bat
